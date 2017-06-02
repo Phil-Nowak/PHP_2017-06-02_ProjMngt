@@ -15,7 +15,7 @@
             <input type="file" name="fichierAEnvoyer"> 
             <!--on ne met pas de 'value' dans la balise-->
             <button type ="submit">Envoyer</button>
-            
+            <!--Et on envoit-->            
             
             
             

@@ -9,7 +9,7 @@
 	</head>
 
 	<body>
-       Formulaire d' envoi de fichier(s)
+       <h1>Formulaire d' envoi de fichier(s)</h1>
         <form method="POST" action="uploadIMG_Files.php" enctype="multipart/form-data">
             <!--indispensable de mettre le enctype-->
             <input type="file" name="fichierAEnvoyer">
